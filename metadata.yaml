@@ -1,0 +1,30 @@
+_repo: A-Short-History-of-the-Salem-Village-Witchcraft-Trials-Illustrated-by-a-Verbatim-Report-of-th__54042
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Perley, M. V. B.
+    aliases:
+    - Perley, Martin Van Buren
+    - Perley, M. Van B.
+    gutenberg_agent_id: '47673'
+    url: http://www.gutenberg.org/2009/agents/47673
+description: ''
+gutenberg_issued: '2017-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54042'
+  lccn: '11020600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Trials (Witchcraft) -- Massachusetts -- Salem'
+- !lcsh 'Jackson, Elizabeth, 1637-1692'
+- !lcsh 'Witchcraft -- Massachusetts -- Salem'
+- GITenberg
+title: 'A Short History of the Salem Village Witchcraft Trials
+
+  Illustrated by a Verbatim Report of the Trial of Mrs. Elizabeth Howe'
+url: http://www.gutenberg.org/ebooks/54042
